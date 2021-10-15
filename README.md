@@ -44,3 +44,7 @@
 # Badge
 
 Voici les différents badge que vous devrez accumuler lors de vos combat contre les champions
+
+>![téléchargement](https://user-images.githubusercontent.com/91524920/137510185-f6aa1642-bcd8-4dda-89c1-da6ba236be60.jpg)
+
+
