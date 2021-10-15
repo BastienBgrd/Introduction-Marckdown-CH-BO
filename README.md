@@ -29,6 +29,8 @@
 ---
 
 > Vous débutez dans un petit village accompagner de votre ami (qui deviendra votre futur rival), a l'âge de 12-13 ans le professeur de votre village vous donneras votre tout premier pokemon afin de découvrir le monde qui vous entoure.
+> 
+![argenta](https://user-images.githubusercontent.com/91524920/137512252-8cda96c6-2dab-4746-bcce-75a8c28019a3.png)
 
 > Mais ce n'est pas tout ce professeur vous donnera une tache de la plus haute importante : Complété le [pokedex](https://fr.wikipedia.org/wiki/Pok%C3%A9dex) !
 ![téléchargement](https://user-images.githubusercontent.com/91524920/137511802-27311ce6-3300-4f3d-ada7-8192b1b9aa72.png)
