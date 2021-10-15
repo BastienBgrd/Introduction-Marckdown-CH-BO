@@ -31,7 +31,8 @@
 > Vous débutez dans un petit village accompagner de votre ami (qui deviendra votre futur rival), a l'âge de 12-13 ans le professeur de votre village vous donneras votre tout premier pokemon afin de découvrir le monde qui vous entoure.
 
 > Mais ce n'est pas tout ce professeur vous donnera une tache de la plus haute importante : Complété le [pokedex](https://fr.wikipedia.org/wiki/Pok%C3%A9dex) !
->![argenta](https://user-images.githubusercontent.com/91524920/137509017-5529be36-5a92-4ac8-9521-9d97e9cbfb56.png) 
+![téléchargement](https://user-images.githubusercontent.com/91524920/137511716-0a46dab5-07b2-42e3-97fd-c64819263e68.jpg)
+
 
 > Vous partirez donc à l'aventure accompagner de votre premier pokemon afin de découvrir le monde et les pokemon présent dans votre région ce nommant [kanto](https://pokemon.fandom.com/wiki/Kanto). Après avoir participé à vos premiers combats de pokemon vous aurez soif de victoire et serez déterminé à collecter tous les badges des [champions d'arènes](https://www.pokepedia.fr/Champion_d%27Ar%C3%A8ne).
 > 
