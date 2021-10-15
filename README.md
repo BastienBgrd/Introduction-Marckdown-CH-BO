@@ -1,3 +1,29 @@
+# SOMMAIRE
+
+---
+
+- [Historique](https://www.notion.so/WikiPokedia-1fd6c6a29b7d4dab98b3af26a4379f48)
+- [Pokemon Bleu, Rouge et Vert](https://www.notion.so/WikiPokedia-1fd6c6a29b7d4dab98b3af26a4379f48)
+- [Histoire du jeux](https://www.notion.so/WikiPokedia-1fd6c6a29b7d4dab98b3af26a4379f48)
+
+# Historique
+
+---
+
+> Les Pokemons sont des créatures créées par [Satoshi Tajiri](https://fr.wikipedia.org/wiki/Satoshi_Tajiri) et son équipe, ont créé entièrement le premier jeu Pokemon, le nom de base de Pokemon était "Pocket Monster" dont le diminutif et le nom complet est devenu Pokemon. Lors de sa création [Satoshi Tajiri](https://fr.wikipedia.org/wiki/Satoshi_Tajiri) s'est inspiré de sa passion : les insectes, ce qui créa ce fameux jeu culte.
+> 
+
+![Satoshi.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f62eab5b-8693-43d6-b2c0-e3026ccf1a9c/Satoshi.jpg)
+
+# Pokemon Bleu, Rouge et Vert
+
+---
+
+> [Pokemon rouge et bleu](https://fr.wikipedia.org/wiki/Pokémon_Rouge_et_Bleu) sont les tous premiers jeux de la série culte à être sortie en occident, juste après [pokemon rouge](https://fr.wikipedia.org/wiki/Pok%C3%A9mon_Rouge_et_Bleu) et vert sorties en premier lieu au japon, les jeux sont présentés sous forme de cartouche étant jouable sur [gameboy](https://fr.wikipedia.org/wiki/Game_Boy). Le jeu a pris une ampleur tellement énorme qu'il a eu une version complémentaire "[Pokémon Jaune](https://fr.wikipedia.org/wiki/Pok%C3%A9mon_Jaune)".
+> 
+
+![pokemon-rouge-bleu-vert_1024x1024.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7dd486bb-515d-4886-b413-d5359a9e76a3/pokemon-rouge-bleu-vert_1024x1024.jpg)
+
 # Histoire du jeux
 
 ---
