@@ -15,8 +15,8 @@
 
 <center>
 ![Satoshi](https://user-images.githubusercontent.com/91524920/137508594-8d1eacc2-e5c3-4288-96fe-16d42deec4a7.jpg)
-<\center>
 # Pokemon Bleu, Rouge et Vert
+<\center>
 
 ---
 
